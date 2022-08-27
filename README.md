@@ -19,7 +19,7 @@ This is a challenge of Frontend Mentor(newbie)
 ### Links
 
 - Solution URL: [Here](https://github.com/nehanawar025/QR-CODE)
-- Live Site URL: [Here]([https://your-live-site-url.com](https://nehanawar025.github.io/QR-CODE/))
+- Live Site URL: [Here](https://nehanawar025.github.io/QR-CODE/)
 
 
 ### Built with
