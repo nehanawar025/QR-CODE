@@ -18,7 +18,7 @@ This is a challenge of Frontend Mentor(newbie)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Here](https://github.com/nehanawar025/QR-CODE)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
