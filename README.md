@@ -19,12 +19,12 @@ This is a challenge of Frontend Mentor(newbie)
 ### Links
 
 - Solution URL: [Here](https://github.com/nehanawar025/QR-CODE)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Here]([https://your-live-site-url.com](https://nehanawar025.github.io/QR-CODE/))
 
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 
 - CSS custom properties
 
 
